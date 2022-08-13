@@ -5,7 +5,7 @@
 <br />
  <p align="center">
     <img src="https://avatars.githubusercontent.com/u/73503432?v=4" alt="Logo" width="80" height="80" />
-    <h3 align="center "><a href="https://learnwithsumit.com/courses/think-in-a-redux-way/what-is-state-management" target="_blank" >THINK IN A REDUX WAY - MODULE 1 - LESSON 1</a></h3>
+    <h3 align="center "><a href="https://learnwithsumit.com/courses/think-in-a-redux-way/reactive-ui-and-reusability" target="_blank" >THINK IN A REDUX WAY - MODULE 1 - LESSON 2</a></h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -40,9 +40,9 @@ Please follow the below instructions to run this branch in your machine:
    ```sh
    cd think-in-a-redux-way
    ```
-4. Checkout/switch to branch 1.1
+4. Checkout/switch to branch 1.2
    ```sh
-   git checkout 1.1
+   git checkout 1.2
    ```
 5. Just run the index.html file with Visual Studio Code [Live Server plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
